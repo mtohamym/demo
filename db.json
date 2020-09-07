@@ -1,14 +1,122 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+   {
+      "name":"Tohamy",
+      "hours":73,
+      "country":"Ghana",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Tohamy",
+      "hours":70,
+      "country":"Nigeria",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Kojo Asante",
+      "hours":67,
+      "country":"Kenya",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Eric Yenge",
+      "hours":105,
+      "country":"Tanzania",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Kojo Yeboah",
+      "hours":117,
+      "country":"Ghana",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Sam George",
+      "hours":59,
+      "country":"Nigeria",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Kojo Asante",
+      "hours":74,
+      "country":"Kenya",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Eric Yenge",
+      "hours":86,
+      "country":"Tanzania",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Kojo Yeboah",
+      "hours":84,
+      "country":"Ghana",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Sam George",
+      "hours":110,
+      "country":"Nigeria",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Kojo Asante",
+      "hours":79,
+      "country":"Kenya",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Eric Yenge",
+      "hours":102,
+      "country":"Tanzania",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Kojo Yeboah",
+      "hours":87,
+      "country":"Ghana",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Sam George",
+      "hours":94,
+      "country":"Nigeria",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Kojo Asante",
+      "hours":98,
+      "country":"Kenya",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Eric Yenge",
+      "hours":93,
+      "country":"Tanzania",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Kojo Yeboah",
+      "hours":58,
+      "country":"Ghana",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Sam George",
+      "hours":101,
+      "country":"Nigeria",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Sam George",
+      "hours":89,
+      "country":"Nigeria",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   },
+   {
+      "name":"Kojo Asante",
+      "hours":97,
+      "country":"Kenya",
+      "badgeUrl":"https://res.cloudinary.com/mikeattara/image/upload/v1596700848/Top-learner.png"
+   }
+]
